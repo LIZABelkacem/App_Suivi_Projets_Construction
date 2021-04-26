@@ -1,0 +1,104 @@
+
+ 
+         
+.a {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: 100px;
+     margin-left:420px ;
+
+}
+
+         
+.b {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: 50px;
+     margin-left:420px ;
+}
+
+         
+.c {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top: 50px;
+    margin-left:420px ;
+
+}         
+.d  {
+   height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : 50px;
+          margin-left:420px ;
+
+}
+
+.toz {
+     height: 50px ; 
+   width: 400px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : 50px;
+          margin-left:420px ;
+}
+.file {
+   background-color: red ; 
+}
+.btn-submit {
+  height: 50px ; 
+   width: 150px;
+     background-color: #92c435;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: block;
+         font-size: 20px;
+     cursor: pointer; 
+     margin-top : 50px;
+          margin-left:420px ;
+}

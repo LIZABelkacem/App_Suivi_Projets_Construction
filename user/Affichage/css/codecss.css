@@ -1,0 +1,23 @@
+table {
+    border: medium solid #92c435;
+    width: 50%;
+    }
+    td, th {
+    border: thin solid #6495ed;
+    width: 50%;
+    }
+
+    .item{
+        margin-left : 150% ;
+     }
+     .container {
+        width: 400px;
+        border-radius: .5em;
+        justify-content: space-between;
+        align-content: space-between;
+      }
+     .flex {
+        display: grid;
+        grid-template-columns: 50% 50% 50% ;
+        
+      }        
